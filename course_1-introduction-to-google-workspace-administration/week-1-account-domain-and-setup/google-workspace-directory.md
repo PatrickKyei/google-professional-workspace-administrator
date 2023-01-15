@@ -49,7 +49,7 @@ Where are custom directories defined for a user?
 - **In the users OU.**
 
 
-In the user's domain settings.
+- In the user's domain settings.
 
 <br>
 
